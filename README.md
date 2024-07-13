@@ -7,13 +7,15 @@ This is a assessment project in which you create a token. In the token i fulfill
 Getting Started
 Step 1: Creating a token.
 Step 2: We will create 3 variables NAME, Abbrv, TotSuplly.
-Step 3: Stet the corressponding values or names to the variables like here NAME=, TAbbrv., TotSuplly
-ow/where to download your program
-Any modifications needed to be made to files/folders
+Step 3: Stet the corressponding values or names to the variables like here NAME = "BASKETBALL",TAbbrv = "BTBL" ,TotSuplly = 0.
+Step 4: We will create a mint function which will take into account address and value.
+Step 5: We have at last created a burn function which means that it will destroy tokens in the balances.
+ 
 Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
+1 First of all we will compile the program and then deploy it. 
+2 Then having done this we will copy the address of thr token we have created and paste into the address of Bmint then balance and then Bburn. This should be done in order.
+3. Then we can type any value in the mint value and then burn value.
+4. One condition should be kept in mind that the value of bun cant be more than the value of the mint value.
 Help
 There is one condition that the value of the burn can not be more than the value of the balance.
  
